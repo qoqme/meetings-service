@@ -8,6 +8,7 @@ class MeetingsServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hello");
 	}
 
 }
